@@ -1,0 +1,145 @@
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+  }
+
+  .header {
+    background-image: url('forest 1.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #fff;
+  }
+
+  .header h1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    display: inline-block;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .header h2 {
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+  }
+
+  .navbar {
+    width: 100%;
+    overflow: hidden;
+    background-color: #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar a:hover {
+    background-color: #666;
+    transition: background-color 0.3s;
+  }
+
+  .content {
+    padding: 20px;
+  }
+
+  .forest {
+    text-align: center;
+    margin-bottom: 30px;
+    background-image: url('gray.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    padding: 20px;
+    color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-shadow: -1px 4px 9px rgba(0, 0, 0, 1);
+  }
+.forest3 {
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url('ocean.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  padding: 20px;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-shadow: -1px 4px 9px rgba(0, 0, 0, 1);
+}
+.forest4 {
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url('shore.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  padding: 20px;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-shadow: -1px 4px 9px rgba(0, 0, 0, 1);
+}
+.forest5 {
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url('batback.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  padding: 20px;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-shadow: -1px 4px 9px rgba(0, 0, 0, 1);
+}
+.forest6 {
+  text-align: center;
+  margin-bottom: 30px;
+  background-image: url('for.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  padding: 20px;
+  color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-shadow: -1px 4px 9px rgba(0, 0, 0, 1);
+}
+
+  .manhwa h2 {
+    text-shadow: -4px -4px 13px rgba(1, 230, 198, 1);
+  }
+}
+
+  .manhwa p {
+    color: #0080c0;
+  }
+
+  .social-icons {
+    text-align: center;
+    background-color: #333;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .social-icons a {
+    color: #fff;
+    font-size: 20px;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+
+  .social-icons a:hover {
+    color: #FDBD01;
+    transition: color 0.3s;
+  }
